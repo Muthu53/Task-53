@@ -42,10 +42,10 @@
 
 
 {
-  "name": "gmail-clone",
+  "name": "gmail-app",
   "description": "a really cool app",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "engines": {
-    "node": "6.11.1"
+    "npm": "7.x"
   }
 }
